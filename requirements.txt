@@ -1,0 +1,7 @@
+# Image Processing
+opencv-python>=4.10.0.84  # Computer vision library
+pillow>=10.0.0            # Image processing (PIL)
+numpy>=1.26.0             # Numerical operations
+
+# Build Tools
+pyinstaller>=6.0.0        # For creating executable

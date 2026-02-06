@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Inno Setup
+Output/
+
+# Project specific
+Release/
+Installers/
+LAIZER_Distribution.zip
