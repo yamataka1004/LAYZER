@@ -1,4 +1,4 @@
-# Green Leaf Area Calculator
+# LAIZER: Leaf Area Index analiZER
 
 A Python-based desktop application for calculating the surface area of green leaves from images. This tool uses computer vision techniques (ExG index and Otsu's thresholding) to automatically detect green regions and calculate their area in square centimeters.
 
