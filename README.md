@@ -1,5 +1,7 @@
 # LAYZER: Leaf Area analYZER
 
+<img width="1485" height="998" alt="image" src="https://github.com/user-attachments/assets/06cf5a3d-beb8-4202-a0a1-3f9ef731cc89" />
+
 A Python-based desktop application for calculating the surface area of green leaves from images. This tool uses computer vision techniques (ExG index and Otsu's thresholding) to automatically detect green regions and calculate their area in square centimeters.
 
 ## Features
@@ -64,5 +66,3 @@ The app tries to detect the leaf automatically using **Auto (Otsu)**.
 | **Draw/Select** | Left Click |
 | **Finish ROI** | Right Click |
 
-
-<img width="1485" height="998" alt="image" src="https://github.com/user-attachments/assets/06cf5a3d-beb8-4202-a0a1-3f9ef731cc89" />
