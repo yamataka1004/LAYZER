@@ -63,3 +63,6 @@ The app tries to detect the leaf automatically using **Auto (Otsu)**.
 | **Pan (Move)** | Middle Mouse Button Drag (Wheel Click) |
 | **Draw/Select** | Left Click |
 | **Finish ROI** | Right Click |
+
+
+<img width="1485" height="998" alt="image" src="https://github.com/user-attachments/assets/06cf5a3d-beb8-4202-a0a1-3f9ef731cc89" />
